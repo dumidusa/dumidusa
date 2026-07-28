@@ -3,12 +3,12 @@
 <h3 align="center">Backend & Systems Engineer | Final-Year CS Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+backend+systems+with+Node.js+%2B+TypeScript;Linux+From+Scratch+%E2%86%92+BLFS+%E2%86%92+Kernel-level+curiosity;Learning+applied+cryptography+(Rust+%2B+JS);Building+toward+Solana+HFT+%2F+MEV+infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=DevOps+%2B+Backend+Engineer+%7C+Final-Year+CS+Student;Building+with+Node.js%2C+Express%2C+TypeScript+%26+REST+APIs;Working+through+Linux+From+Scratch+(LFS);Docker+%2B+Kubernetes+%2B+Terraform+%2B+AWS+%2B+Nginx%2C+CI%2FCD+with+GitHub+Actions;Next+up%3A+GitOps%2C+Grafana+%26+Prometheus;Looking+for+DevOps+%2F+Backend+Engineer+opportunities" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 - 🎓 Final-year Computer Science student
 - ⚙️ DevOps & Backend engineer — building APIs, infra, and automation
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Backend**
 
@@ -39,7 +39,7 @@
 
 ---
 
-### 🚀 Projects
+###  Projects
 
 | Project | Description |
 |---|---|
@@ -52,7 +52,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=dumidusa&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
@@ -65,7 +65,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+###  Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dumidusa/dumidusa/output/github-contribution-grid-snake-dark.svg" />
